@@ -1,0 +1,1 @@
+Project developed in Java with Swing and AWT primary motive was to develope a CBIR system, next feature to add is a feedback system to the existing model.
